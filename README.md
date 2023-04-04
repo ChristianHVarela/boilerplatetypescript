@@ -1,1 +1,1 @@
-# boilerplatetypescript
+# Boileplate for initial project node/ts
